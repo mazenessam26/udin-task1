@@ -4,7 +4,7 @@
 first before using the AI provider(Claude) to implement my code,I planned the structure,the language that should be used,the prompts and also the complexity of the project with another AI tool(chatgpt). then after that i gave claude the prepared prompts and tried as much as i can to gain from him the core and most important parts of the project to focus on modifing the rest by my own.
 
 ## 2- languages and libraries used
-### for task1,2 i did it with pythton and with library called pygame, 
+### for task1,2 i did it with python and with library called pygame, 
 ### for task3 i used library called falsk
 
 ## 3- challenges faced
