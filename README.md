@@ -12,3 +12,24 @@ first before using the AI provider(Claude) to implement my code,I planned the st
 -  I faced issues to setup python in VS code at first bec. the python version i had was more updated than the pygame library, so i installed an older version.
 -  Task 2 had more details than the rest, so I had to restructure task 1 code to be more organized and readable instead of the 1 file project that usually the prompts do. and I did it by planning structure for the project then relocating the code to it's desired location
 
+
+# 📝Very Important Notes
+
+## To Run Task 1 or Task 2:
+1. Download its ZIP file.
+2. In the terminal, run:
+   ```bash
+   pip install pygame
+3. then run:
+   ```bash
+   python main.py
+
+## To Run Task 3:
+1. Download its ZIP file.
+2. In the terminal, run:
+   ```bash
+   pip install flask
+3. then run:
+   ```bash
+   python app.py
+4. then navigate from two browsers to the host: http://127.0.0.1:5000   
